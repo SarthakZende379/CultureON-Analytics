@@ -4,6 +4,8 @@
 
 A production-ready IoT analytics platform demonstrating complete data infrastructure capabilities for CultureON portable cell culture incubators. Built to scale from 4 to 54,000 devices while protecting valuable research experiments.
 
+View a demo here: https://www.loom.com/share/5e2f8200dfe14d4f8fb15cf0deee8aaa?sid=1b69c401-e6e2-4364-9bd8-16af6a27ef5d
+
 ### 🎯 Business Value Proposition
 
 - **Protects $50K Research Experiments** - Real-time anomaly detection prevents experiment failures
